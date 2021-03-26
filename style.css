@@ -1,0 +1,9 @@
+body{
+    background-color: cadetblue;
+}
+
+.bg{
+    background-image: url('1.png');
+    background-size: cover;
+    background-attachment: fixed;
+}
